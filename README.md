@@ -57,4 +57,4 @@ git pull
 | Git                  | https://git-scm.com/downloads                                                    |
 | Azure Sub            | https://azure.microsoft.com/en-us/free/                                          |
 | GitHub Account       | https://github.com/pricing                                                       |
-| Azure DevOps Account | https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/  |
+| Azure DevOps Account | https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/  |name pink
